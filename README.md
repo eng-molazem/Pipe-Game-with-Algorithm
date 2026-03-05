@@ -92,4 +92,4 @@ Complete each level manually by solving the pipe puzzle, or press N to solve any
 ## License
 
 This project is open source and free to use under the MIT License.
-ترجمها
+
